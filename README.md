@@ -4,7 +4,7 @@ This is a Capstone project for Almabetter web development frontend module which 
 
 ## Deployment
 
-[Click Here](/) to checkout flashcard generator website.
+[Click Here](https://alma-better-flashcard-generator.vercel.app/) to checkout flashcard generator website.
 
 ## Run Locally
 
@@ -48,7 +48,7 @@ This is a ReactJS project, In this project mainly we have three pages.
 
 ## How To Use
 
-1) Open the flashcard generator [Click Here](/).
+1) Open the flashcard generator [Click Here](https://alma-better-flashcard-generator.vercel.app/).
 
 2) Fill up all the input boxes without any Errors and click on the "Create" button.
 
