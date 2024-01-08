@@ -25,7 +25,7 @@ Start the server
 - [@Manjunathgouda Patil](https://github.com/manjupatil28)
 
 ## Tech Stack
-- React js( React Router ),
+- ReactJS,
 - Redux,
 - TailwindCSS,
 - React-icons,
